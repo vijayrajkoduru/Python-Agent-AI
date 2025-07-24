@@ -9,7 +9,7 @@ Video Outline:
 Syntax refers to the set of rules that defines the combinations of symbols that are considered to be correctly structured programs in a language. In simpler terms, syntax is about the correct arrangement of words and symbols in a code.
 
 Semantics refers to the meaning or the interpretation of the symbols, characters, and commands in a language. It is about what the code is supposed to do when it runs.
-## Basic Syntax Rules In Python
+``` Basic Syntax Rules In Python ```
 ## Case sensitivity- Python is case sensitive
 
 name="Krish"
@@ -68,5 +68,6 @@ if True:
         print("This ont print")
     print("This will print")
 print("Outside the if block")
-### Conclusion:
+
+``` Conclusion:
 Understanding the syntax and semantics of Python is crucial for writing correct and meaningful programs. Syntax ensures the code is properly structured, while semantics ensures the code behaves as expected. Mastering these concepts will help in writing efficient and error-free Python code.
